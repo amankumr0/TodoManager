@@ -9,7 +9,7 @@
   <li>Use Tailwind CSS for styling and responsiveness</li>
   <li>Use React JS for UI components and state management</li>
 </ul>
-<h2><a href="https://mytodomanager.netlify.app/">Preview</a></h2>
+<a href="https://mytodomanager.netlify.app/" >Preview</a>
 
 
 # React + Vite
